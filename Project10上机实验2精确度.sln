@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project10上机实验2精确度", "Project10上机实验2精确度\Project10上机实验2精确度.vcxproj", "{152B9C9E-F2B7-4808-8298-27240000EA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Debug|x64.ActiveCfg = Debug|x64
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Debug|x64.Build.0 = Debug|x64
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Debug|x86.ActiveCfg = Debug|Win32
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Debug|x86.Build.0 = Debug|Win32
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Release|x64.ActiveCfg = Release|x64
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Release|x64.Build.0 = Release|x64
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Release|x86.ActiveCfg = Release|Win32
+		{152B9C9E-F2B7-4808-8298-27240000EA7D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CDD7C4C-98A1-4B84-BE74-EDF9D02C63D8}
+	EndGlobalSection
+EndGlobal
